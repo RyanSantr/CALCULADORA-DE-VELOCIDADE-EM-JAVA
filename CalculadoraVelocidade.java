@@ -18,7 +18,7 @@ public class CalculadoraVelocidade extends JFrame {
 	private int contador = 0;
 	private JToolBar toolbar;
 	
-	
+	// Aqui voce pode alterar as cores dos botoes
 	private void configurarCores() {
 		
 		Color corFundo = new Color(240, 248, 255);
